@@ -24,14 +24,14 @@
   },
   "homepage": "https://github.com/renasar/renasar-taskgraph",
   "dependencies": {
-    "di": "git+ssh://git@github.com/renasar/di.js.git",
+    "di": "git+ssh://git@github.com/renasar/di.js.git#emc-2015-01-19",
     "dot-object": "^0.6.0",
     "lodash": "^2.4.1",
     "lru-cache": "^2.5.0",
     "node-uuid": "^1.4.2",
     "q": "^1.1.2",
-    "renasar-core": "git+ssh://git@github.com/renasar/renasar-core.git",
-    "renasar-tasks": "git+ssh://git@github.com/renasar/renasar-tasks.git",
+    "renasar-core": "git+ssh://git@github.com/renasar/renasar-core.git#emc-2015-01-19",
+    "renasar-tasks": "git+ssh://git@github.com/renasar/renasar-tasks.git#emc-2015-01-19",
     "rx": "^2.3.22"
   },
   "devDependencies": {

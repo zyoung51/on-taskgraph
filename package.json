@@ -25,9 +25,11 @@
     "lodash": "^3.10.1",
     "lru-cache": "^2.5.0",
     "node-uuid": "^1.4.2",
-    "on-core": "git+https://github.com/zyoung51/on-core.git#feature/periodic-workflow",
-    "on-tasks": "git+https://github.com/zyoung51/on-tasks.git#feature/periodic-workflow",
-    "rx": "^2.3.22"
+    "on-core": "git+https://github.com/zyoung51/on-core.git#feature/taskgraph-ringpop",
+    "on-tasks": "git+https://github.com/zyoung51/on-tasks.git",
+    "ringpop": "git+https://github.com/zyoung51/ringpop-node.git",
+    "rx": "^2.3.22",
+    "tchannel": "^3.8.2"
   },
   "devDependencies": {
     "chai": "^2.0.0",
